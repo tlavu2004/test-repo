@@ -10,4 +10,4 @@ OK, now I get it.
 
 End of references of PRs.
 
-Test verified commit
+Test VSCode verified commit
