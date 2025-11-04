@@ -10,4 +10,4 @@ OK, now I get it.
 
 End of references of PRs.
 
-Test VSCode verified commit
+Test VSCode and IntelliJ IDEA verified commit
