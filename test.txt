@@ -10,4 +10,6 @@ OK, now I get it.
 
 End of references of PRs.
 
-Test VSCode and IntelliJ IDEA verified commit
+Test VSCode and IntelliJ IDEA verified commit.
+
+Test GPG restart.
