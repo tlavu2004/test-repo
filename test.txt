@@ -12,4 +12,4 @@ End of references of PRs.
 
 Test VSCode and IntelliJ IDEA verified commit.
 
-Restart GPG.
+Restart GPG - Restart for using via Powershell.
